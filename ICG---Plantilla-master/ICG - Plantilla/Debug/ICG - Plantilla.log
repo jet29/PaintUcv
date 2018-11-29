@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': redefinición de macro
+  c:\users\alchenthecat\documents\semestre vi\computacion grafica\project i\icg---plantilla-master\headers\glfw3.h(85): note: vea la definición anterior de 'APIENTRY'
+c:\users\alchenthecat\documents\semestre vi\computacion grafica\project i\icg---plantilla-master\src\main.cpp(191): warning C4018: '<': no coinciden signed/unsigned
+c:\users\alchenthecat\documents\semestre vi\computacion grafica\project i\icg---plantilla-master\src\main.cpp(350): warning C4018: '<': no coinciden signed/unsigned
+c:\users\alchenthecat\documents\semestre vi\computacion grafica\project i\icg---plantilla-master\src\main.cpp(370): warning C4018: '<': no coinciden signed/unsigned
+  ICG - Plantilla.vcxproj -> C:\Users\AlchenTheCat\Documents\Semestre VI\Computacion Grafica\Project I\ICG---Plantilla-master\Debug\ICG - Plantilla.exe

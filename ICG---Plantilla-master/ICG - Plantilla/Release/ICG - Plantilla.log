@@ -1,0 +1,11 @@
+﻿  Line.cpp
+c:\users\alchenthecat\downloads\icg---plantilla-master\icg---plantilla-master\src\line.cpp(62): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\alchenthecat\downloads\icg---plantilla-master\icg---plantilla-master\src\line.cpp(64): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+c:\users\alchenthecat\downloads\icg---plantilla-master\icg---plantilla-master\src\line.cpp(70): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\alchenthecat\downloads\icg---plantilla-master\icg---plantilla-master\src\line.cpp(72): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+  Generando código
+  1 of 164 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+  Generación de código finalizada
+    0 functions had inline decision re-evaluated but remain unchanged
+  ICG - Plantilla.vcxproj -> C:\Users\AlchenTheCat\Downloads\ICG---Plantilla-master\ICG---Plantilla-master\Release\ICG - Plantilla.exe
